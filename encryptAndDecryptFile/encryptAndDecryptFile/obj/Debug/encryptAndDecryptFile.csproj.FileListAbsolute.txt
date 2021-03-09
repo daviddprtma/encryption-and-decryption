@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\encryptAndDecryptFile\encryptAndDecryptFile\bin\Debug\encryptAndDecryptFile.exe.config
+C:\Users\asus\source\repos\encryptAndDecryptFile\encryptAndDecryptFile\bin\Debug\encryptAndDecryptFile.exe
+C:\Users\asus\source\repos\encryptAndDecryptFile\encryptAndDecryptFile\bin\Debug\encryptAndDecryptFile.pdb
+C:\Users\asus\source\repos\encryptAndDecryptFile\encryptAndDecryptFile\obj\Debug\encryptAndDecryptFile.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\encryptAndDecryptFile\encryptAndDecryptFile\obj\Debug\encryptAndDecryptFile.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\encryptAndDecryptFile\encryptAndDecryptFile\obj\Debug\encryptAndDecryptFile.exe
+C:\Users\asus\source\repos\encryptAndDecryptFile\encryptAndDecryptFile\obj\Debug\encryptAndDecryptFile.pdb
